@@ -2,5 +2,7 @@ dependencies:
   - matplotlib=2.0.2
   - numpy=1.12.1
   - scipy=0.19.0
+  - pandas=0.23.0
+  - xlrd=1.1.0
   - ipython=5.3.0
   - version_information=1.0.3
