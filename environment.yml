@@ -1,9 +1,9 @@
 dependencies:
-  - python
-  - matplotlib
-  - numpy
+  - python=3.6.13
+  - matplotlib=3.1.1
+  - numpy=1.13.3
   - scipy=0.19.0
-  - xlrd
-  - openpyxl
+  - xlrd=2.0.1
+  - openpyxl=3.0.7
   - notebook=6.1.1
-  - version_information
+  - version_information=1.0.3
